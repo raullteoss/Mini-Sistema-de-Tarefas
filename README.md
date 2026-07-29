@@ -32,4 +32,4 @@ Basta abrir o arquivo `web/index.html` em qualquer navegador. Não requer servid
 Autor
 Projeto desenvolvido como exercício acadêmico de lógica de programação e estruturas de dados em Python.
 
-LINK: file:///C:/Users/Raul%20Teot%C3%B4nio/Downloads/mini-sistema-de-tarefas/mini-sistema-de-tarefas/web/index.html
+
